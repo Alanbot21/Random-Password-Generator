@@ -1,0 +1,4 @@
+# Requirements for Python Randm password generator
+# Python 3.6+ recommended
+# Standard library modules used: import random , string
+# No external packages needed!
