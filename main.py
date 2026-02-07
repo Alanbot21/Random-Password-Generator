@@ -1,16 +1,3 @@
-#-------------PLAN------------#
-
-# Collect User Prefences
-# - Length
-# - Upper case
-# - Contain Digits
-# - Special Characters
-# get all available characters
-# randomly pick characters up to the length
-# ensure we have atleast one of each character type
-# ensure length is valid
-#-------------------------------#
-
 import random
 import string
 
@@ -53,3 +40,4 @@ def generate_password():
 
 password = generate_password()
 print(password)
+
